@@ -9,13 +9,11 @@ public class addition {
 
 	public static void main(String[] args) {
 		
-		//Define variables which will be added together 
-		int x;
-		int y;
+		//Define and initialises variables which will be added together 
+		int x = 1;
+		int y = 2;
 		
-		//initialise variables with a value
-		x=1;
-		y=2;
+		
 		
 		//define variable which will be the sum
 		int sum = x+y;
