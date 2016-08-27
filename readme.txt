@@ -7,3 +7,5 @@ The progrm was then altered to define and initialise them simulatiously.
 
 The abstract Number super class and firstNumber class were then added to demonstrate
 some key aspects of object orientated programming.
+
+This program was created using Eclipse Neon but can be viewed and run in any java IDE.
