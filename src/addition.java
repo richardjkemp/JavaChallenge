@@ -10,13 +10,11 @@ public class addition {
 	public static void main(String[] args) {
 		
 		//Define and initialises variables which will be added together 
-		int x = 1;
 		int y = 2;
-		
-		
+		firstNumber number = new firstNumber();
 		
 		//define variable which will be the sum
-		int sum = x+y;
+		int sum = number.number + y; //takes the value defined by the firstNumber class
 		
 		//print sum to console
 		System.out.println(sum);
